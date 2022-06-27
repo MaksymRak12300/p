@@ -198,24 +198,10 @@ body {
     }
 }
 
-@media only screen and (max-width: 390px) {
-    a.btn {
-        position: absolute;
-        left: 172px;
-    }
-}
-
 @media only screen and (max-width: 380px) {
     a.btn {
         position: absolute;
         left: 167px;
-    }
-}
-
-@media only screen and (max-width: 370px) {
-    a.btn {
-        position: absolute;
-        left: 162px;
     }
 }
 
