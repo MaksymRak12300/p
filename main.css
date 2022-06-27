@@ -135,6 +135,13 @@ body {
     }
 }
 
+@media only screen and (max-width: 460px) {
+    a.btn {
+        position: absolute;
+        left: 137px;
+    }
+}
+
 @media only screen and (max-width: 450px) {
     a.btn {
         position: absolute;
@@ -142,10 +149,38 @@ body {
     }
 }
 
+@media only screen and (max-width: 440px) {
+    a.btn {
+        position: absolute;
+        left: 127px;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    a.btn {
+        position: absolute;
+        left: 117px;
+    }
+}
+
 @media only screen and (max-width: 400px) {
     a.btn {
         position: absolute;
         left: 107px;
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    a.btn {
+        position: absolute;
+        left: 92px;
+    }
+}
+
+@media only screen and (max-width: 410px) {
+    a.btn {
+        position: absolute;
+        left: 182px;
     }
 }
 
@@ -182,4 +217,3 @@ body {
     padding: 20px 70px;
     border-radius: 15px;
 }
-
