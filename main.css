@@ -13,7 +13,8 @@ body {
     background: linear-gradient(to right, #a8c0ff, #3f2b96);
     text-decoration: none;
     padding: 20px 70px;
-    border-radius: 15px;
+    border-radius: 60px;
+    user-select: none;
 }
 
 @media only screen and (max-width: 1300px) {
