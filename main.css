@@ -2,6 +2,11 @@ body {
     background: rgb(17, 17, 17);
 }
 
+a:active {
+    color: white;
+    background: rgb(17, 17, 17);
+}
+
 .btn {
     position: absolute;
     top: 300px;
