@@ -161,42 +161,42 @@ body {
 @media only screen and (max-width: 440px) {
     a.btn {
         position: absolute;
-        left: 127px;
+        left: 125px;
     }
 }
 
 @media only screen and (max-width: 430px) {
     a.btn {
         position: absolute;
-        left: 92px;
+        left: 120px;
     }
 }
 
 @media only screen and (max-width: 420px) {
     a.btn {
         position: absolute;
-        left: 87px;
+        left: 115px;
     }
 }
 
 @media only screen and (max-width: 410px) {
     a.btn {
         position: absolute;
-        left: 182px;
+        left: 110px;
     }
 }
 
 @media only screen and (max-width: 400px) {
     a.btn {
         position: absolute;
-        left: 177px;
+        left: 105px;
     }
 }
 
 @media only screen and (max-width: 390px) {
     a.btn {
         position: absolute;
-        left: 172px;
+        left: 100px;
     }
 }
 
@@ -210,14 +210,14 @@ body {
 @media only screen and (max-width: 370px) {
     a.btn {
         position: absolute;
-        left: 162px;
+        left: 90px;
     }
 }
 
 @media only screen and (max-width: 360px) {
     a.btn {
         position: absolute;
-        left: 157px;
+        left: 85px;
     }
 }
 
@@ -263,6 +263,27 @@ body {
     }
 }
 
+@media only screen and (max-width: 290px) {
+    a.btn {
+        position: absolute;
+        left: 50px;
+    }
+}
+
+@media only screen and (max-width: 280px) {
+    a.btn {
+        position: absolute;
+        left: 45px;
+    }
+}
+
+@media only screen and (max-width: 270px) {
+    a.btn {
+        position: absolute;
+        left: 40px;
+    }
+}
+
 .btn {
     position: absolute;
     top: 300px;
@@ -275,3 +296,4 @@ body {
     padding: 20px 70px;
     border-radius: 15px;
 }
+
