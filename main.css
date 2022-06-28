@@ -1,5 +1,19 @@
 body {
-    background-color: black;
+    background: linear-gradient(to right, #000000, #434343);
+}
+
+.btn {
+    position: absolute;
+    top: 300px;
+    left: 570px;
+    font-size: 20px;
+    font-family: monospace;
+    color: #fff;
+    background: linear-gradient(to right, #a8c0ff, #3f2b96);
+    text-decoration: none;
+    padding: 20px 70px;
+    border-radius: 15px;
+    box-shadow: 0 0 40px gray;
 }
 
 @media only screen and (max-width: 1300px) {
@@ -411,18 +425,5 @@ body {
         position: absolute;
         left: 40px;
     }
-}
-
-.btn {
-    position: absolute;
-    top: 300px;
-    left: 570px;
-    font-size: 20px;
-    font-family: monospace;
-    color: #fff;
-    background: linear-gradient(to right, #a8c0ff, #3f2b96);
-    text-decoration: none;
-    padding: 20px 70px;
-    border-radius: 15px;
 }
 
