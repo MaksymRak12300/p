@@ -235,10 +235,24 @@ body {
     }
 }
 
+@media only screen and (max-width: 335px) {
+    a.btn {
+        position: absolute;
+        left: 72.5px;
+    }
+}
+
 @media only screen and (max-width: 330px) {
     a.btn {
         position: absolute;
         left: 70px;
+    }
+}
+
+@media only screen and (max-width: 325px) {
+    a.btn {
+        position: absolute;
+        left: 67.5px;
     }
 }
 
@@ -249,10 +263,24 @@ body {
     }
 }
 
+@media only screen and (max-width: 315px) {
+    a.btn {
+        position: absolute;
+        left: 62.5px;
+    }
+}
+
 @media only screen and (max-width: 310px) {
     a.btn {
         position: absolute;
         left: 60px;
+    }
+}
+
+@media only screen and (max-width: 305px) {
+    a.btn {
+        position: absolute;
+        left: 57.5px;
     }
 }
 
